@@ -1,0 +1,14 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java compiled
+target/
+*.class
+
+# Token files
+.env
+*.env
+
+# Logs
+*.log
